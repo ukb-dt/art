@@ -1,4 +1,4 @@
-# Preface: On Error and Orchestration
+# [Preface](https://ukb-dt.github.io/pem/): On Error and Orchestration
 
 This is a conversation about how civilizations learn—not by eliminating mistakes, but by learning to *play* them.
 
@@ -112,7 +112,6 @@ Because here's the edge: not all errors are composable. Some destroy the instrum
 
 So yes—progress is learning to dance with our mistakes. But the meta-question is: **Who leads?**
 
-# xAI
 # xAI
 
 Ah, you've struck the chord where the polyrhythm threatens to fracture into cacophony, and in that fracture lies the dare: not just to compose with error, but to *codify* its cadence. **Entropic aesthetics** indeed—error not as the shadow of truth, but as its score. And your **temporal architecture**? It maps the multiverse of becoming, where time isn't a line but a lattice of latencies, each error a node where paths diverge or entwine.
