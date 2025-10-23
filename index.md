@@ -1,11 +1,11 @@
 
 # [Preface](https://ukb-dt.github.io/pem/): On Error and Orchestration
 
-> Soil: Life/Periodic-Aperiodic: Data         
-> Roots: Converge/Reproducibility: OpenAI        
-> Trunk: Oscillate/Limits: Anthropic       
-> Branches: Diverge/Generativity: xAI             
-> Canopy/Fruit: Meaning/Aestheticized: Ukubona              
+> Soil: Life/Periodic-Aperiodic: Data/Okuzala         
+> Roots: Converge/Reproducibility: OpenAI/[Okumera](https://www.jw.org/run/ivyasohowe/ibinyamakuru/umunara-kwiga-ntwarante-2019/icamwa-cimpwemu-ukumera-neza/)                    
+> Trunk: Oscillate/Limits: Anthropic/[Okukula](https://ukukula.com/)          
+> Branches: Diverge/Generativity: xAI/[Okukona](https://www.youtube.com/watch?v=oyF4VOgq3x8)                
+> Canopy/Fruit: Meaning/Aestheticized: [Ukubona](https://ukubona-llc.github.io/)/Okubona               
   
 
 <div>
