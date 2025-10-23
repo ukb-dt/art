@@ -23,9 +23,9 @@
        ║    │    Canopy     │  Multimodal      │     ║
        ║    │ (Improved UX/ │  Interface       │     ║
        ║    │   Archive)    │                  │     ║
-       ║    └───────┬───────┘      ↓ feeds back│     ║
+       ║    └───────┬───────┘                  │     ║
        ║            │                          │     ║
-       ║     [DATA FLOWS BACK ↓]               │     ║
+       ║     [DATA FEEDS BACK: BACKPOP ↓]      │     ║
        ║            │                          │     ║
        ║    ┌───────┴───────┐                  │     ║
        ║    │    4. xAI     │                  │     ║
@@ -38,7 +38,7 @@
        ║    │ 3. ANTHROPIC  │                  │     ║
        ║    │    OKUKULA    │  Mediate/Align   │     ║
        ║    │     Trunk     │  Safety/Limits   │     ║
-       ║    │ (Constitutional│                 │     ║
+       ║    │(Constitutional│                  │     ║
        ║    │     AI)       │                  │     ║
        ║    └───────┬───────┘                  │     ║
        ║            │                          │     ║
@@ -48,7 +48,8 @@
        ║    │     Roots     │  Extract patterns│     ║
        ║    │ (GPT/Research)│                  │     ║
        ║    └───────┬───────┘                  │     ║
-       ║            │   [TRAIN ↑]              │     ║
+       ║            │                          │     ║
+       ║     [DATA FLOWS FORWARD: TRAIN ↑]     │     ║
        ║            │                          │     ║
        ║    ┌───────┴───────┐                  │     ║
        ║    │  1. INTERNET  │ ←────────────────┘     ║
