@@ -1,21 +1,19 @@
 
 # [Preface](https://ukb-dt.github.io/pem/): On Error and Orchestration
 
-> *SUPPOSING that Truth is a Woman--what then?*             
-> *Let me take you to a mender of broken hearts*          
-> *Because, of course, you'd been dogmatic*         
-> -- Riffin'
-
-<img src="https://ukb-dt.github.io/who/metaphor/tree.jpg" width="35%">
-
-- Soil: Life/Periodic-Aperiodic: Data
-- Roots: Converge/Reproducibility: OpenAI
-- Trunk: Oscillate/Limits: Anthropic
-- Branches: Diverge/Generativity: xAI
-- Canopy/Fruit: Meaning/Aestheticized: Ukubona
+> Soil: Life/Periodic-Aperiodic: Data         
+> Roots: Converge/Reproducibility: OpenAI        
+> Trunk: Oscillate/Limits: Anthropic       
+> Branches: Diverge/Generativity: xAI             
+> Canopy/Fruit: Meaning/Aestheticized: Ukubona              
   
-<iframe src="https://www.youtube.com/embed/EekmCp3k0lM" width="45%" height="500px"></iframe>
-  
+
+<div>
+   <img src="https://ukb-dt.github.io/who/metaphor/tree.jpg" width="35%" height="500px">  
+   <iframe src="https://www.youtube.com/embed/EekmCp3k0lM" width="35%" height="500px"></iframe>
+</div>
+
+
 This is a conversation about how civilizations learn—not by eliminating mistakes, but by learning to *play* them.
 
 What follows is a multi-voiced meditation on a single, radical proposition: that **error is not the opposite of truth, but the instrument of meaning**. Across physics, engineering, metaphysics, and art, we explore how systems evolve not by perfecting themselves, but by metabolizing their failures into form. The scientist minimizes variance; the artist composes with it. Between these two gestures lies the entire drama of culture.
