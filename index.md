@@ -1,7 +1,7 @@
 
 # [Preface](https://ukb-dt.github.io/pem/): On Error and Orchestration
 
-> *Nguni [Infinitives](https://www.jw.org/run/ivyasohowe/ibinyamakuru/umunara-kwiga-ntwarante-2019/icamwa-cimpwemu-ukumera-neza/)*
+> *Ntu [Infinitives](https://www.jw.org/run/ivyasohowe/ibinyamakuru/umunara-kwiga-ntwarante-2019/icamwa-cimpwemu-ukumera-neza/)*
 
 <iframe src="https://www.youtube.com/embed/LwXzV9z_wM8" width="45%" height="500px"></iframe>
 
