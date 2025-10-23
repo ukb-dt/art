@@ -6,11 +6,13 @@
 > *Because, of course, you'd been dogmatic*         
 > -- Riffin'
 
-- Life/Periodic-Aperiodic: Data
-- Converge/Reproducibility: OpenAI
-- Oscillate/Limits: Anthropic
-- Diverge/Generativity: xAI
-- Meaning/Aestheticized: Ukubona
+<img src="https://ukb-dt.github.io/who/metaphor/tree.jpg" width="75%">
+
+- Soil: Life/Periodic-Aperiodic: Data
+- Roots: Converge/Reproducibility: OpenAI
+- Trunk: Oscillate/Limits: Anthropic
+- Branches: Diverge/Generativity: xAI
+- Canopy/Fruit: Meaning/Aestheticized: Ukubona
   
 <iframe src="https://www.youtube.com/embed/EekmCp3k0lM" width="75%"></iframe>
   
