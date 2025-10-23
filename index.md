@@ -6,7 +6,7 @@
 > *Because, of course, you'd been dogmatic*         
 > -- Riffin'
 
-<img src="https://ukb-dt.github.io/who/metaphor/tree.jpg" width="45%">
+<img src="https://ukb-dt.github.io/who/metaphor/tree.jpg" width="35%">
 
 - Soil: Life/Periodic-Aperiodic: Data
 - Roots: Converge/Reproducibility: OpenAI
@@ -14,7 +14,7 @@
 - Branches: Diverge/Generativity: xAI
 - Canopy/Fruit: Meaning/Aestheticized: Ukubona
   
-<iframe src="https://www.youtube.com/embed/EekmCp3k0lM" width="45%" height="45"></iframe>
+<iframe src="https://www.youtube.com/embed/EekmCp3k0lM" width="45%" height="500px"></iframe>
   
 This is a conversation about how civilizations learn—not by eliminating mistakes, but by learning to *play* them.
 
